@@ -8,3 +8,8 @@
 
 myvirtualenv 로 가상환경 이름을 설정했다.
 위의 URL로 익히도록 하자
+
+
+<http://handam.tistory.com/127>
+
+CRLF는 윈도에서만 LF는 MAC Linux에서 줄바꿈으로 사용 크로스 플랫폼은 골치아프다.
